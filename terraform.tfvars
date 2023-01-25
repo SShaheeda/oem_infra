@@ -1,0 +1,7 @@
+oem_vpc_cidr="10.93.127.0/24"
+oem_private_subnet="10.93.127.0/26,10.93.127.64/26"
+oem_public_subnet="10.93.127.128/27,10.93.127.160/27"
+oem_az="us-east-1b,us-east-1e"
+vpcname="oem-vpc"
+s3_alb_log="oem-alb-log"
+env="dev"
